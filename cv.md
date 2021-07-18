@@ -52,7 +52,7 @@ Lobachevsky (UNN)**
 Bachelor's degree in Radiophysics
 
 ### Language
-** Upper - Intermediate. **
+**Upper - Intermediate.**
 
 Able to discuss project aspects with customers.
 
