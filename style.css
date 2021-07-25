@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.content-box {
+   padding: 15px;
+}
+
+
+.feature {
+    font-variant: small-caps slashed-zero;
+}
+
+.feature-title {
+    text-shadow: 1px 1px 1px rgb(218, 218, 218),
+    2px 2px 1px rgb(218, 218, 218);
+    margin-bottom: 0px;
+}
+
+.feature-title-subtitle {
+    text-decoration: none;
+    font-variant:normal;
+}
+
+.feature-text {
+    text-decoration: none;
+    font-variant:normal;
+}
+
+.feature-list {
+    text-decoration: none;
+    font-variant:normal;
+}
+
+.insert-picture {
+    height: 400px;
+    float: right;
+}
