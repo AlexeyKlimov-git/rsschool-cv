@@ -6,6 +6,7 @@ Alexey Klimov
 - Mobile number: +79049068432;
 - Email: alexclimov@bk.ru;
 - VK: https://vk.com/klimmoff
+
 ### About me
 Hi there! I want to find new opportunities in IT world via this CV. 
 I have a little experience in JS programming but creating high quality frontend is my desire. 
@@ -26,6 +27,7 @@ I am well organized and have the ability to lean quikly.
 - Team player
 - Accuracy
 - Multitasking
+
 ### Experience
 - **JS/frontend developer** 
 online course from RSschool
@@ -43,7 +45,8 @@ Bachelor's degree in Radiophysics
 
 ### Language
 #### English
-**Upper - Intermediate**
+*Upper - Intermediate*
+
 I am able to discuss project aspects with customers.
 
 
