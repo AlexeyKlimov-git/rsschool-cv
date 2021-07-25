@@ -3,8 +3,8 @@
 Alexey Klimov
 
 ### Contacts
-- Mobile number: +79049068432;
-- Email: alexclimov@bk.ru;
+- Mobile number: +79049068432
+- Email: alexclimov@bk.ru
 - VK: https://vk.com/klimmoff
 
 ### About me
